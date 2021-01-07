@@ -14,13 +14,15 @@ body {
 p {
     color: #ffffff;
     text-align: center;
+    font-size: x-large;
 }
 
 a {
     color: #ffffff;
+    font-size: x-large;
 }
 
-h3 {
+h2 {
     color: #61c7f3;
     text-align: center;
     margin-top: 2em;
