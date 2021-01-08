@@ -22,12 +22,11 @@ a {
     font-size: x-large;
 }
 
-h2 {
+h1 {
     color: #61c7f3;
     text-align: center;
     margin-top: 2em;
 }
-
 
 div.centerLink {
     text-align: center;
@@ -85,8 +84,8 @@ div.centerLink {
 }
 
 #tiHeader {
-    width: 50%;
-    max-width: 25em;
+    width: 60%;
+    max-width: 35em;
 }
 
 #textDiv {
@@ -101,4 +100,8 @@ div.centerLink {
 
 #textDiv p {
     text-align: justify;
+}
+
+#mockupImg {
+    margin-top: 3em;
 }
